@@ -70,26 +70,26 @@
 // ];
 // console.log(extractkey(obj, 1));
 
-function extractfullname(arr) {
-  return arr.map((val) => val.first + " " + val.last);
-}
+// function extractfullname(arr) {
+//   return arr.map((val) => val.first + " " + val.last);
+// }
 
-const obj = [
-  {
-    first: "hartish",
-    age: "1",
-    last: "kumar",
-  },
-  {
-    first: "naveen",
-    age: "1",
-    last: "kumar",
-  },
-  {
-    first: "staish",
-    age: "1",
-    last: "kumar",
-  },
-];
+// const obj = [
+//   {
+//     first: "hartish",
+//     age: "1",
+//     last: "kumar",
+//   },
+//   {
+//     first: "naveen",
+//     age: "1",
+//     last: "kumar",
+//   },
+//   {
+//     first: "staish",
+//     age: "1",
+//     last: "kumar",
+//   },
+// ];
 
-console.log(extractfullname(obj));
+// console.log(extractfullname(obj));
